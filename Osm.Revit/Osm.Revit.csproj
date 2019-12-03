@@ -148,6 +148,9 @@
       <HintPath>$(RevitExePath)\RevitAPI.dll</HintPath>
       <Private>False</Private>
     </Reference>
+    <Reference Include="clipper_library, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\clipper_library.6.2.1\lib\net40\clipper_library.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Configuration" />
     <Reference Include="System.Data" />
